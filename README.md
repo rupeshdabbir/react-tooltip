@@ -1,5 +1,5 @@
 <div align="center">
-<h1>@wtjs/tooltip</h1>
+<h1>React-tooltip</h1>
 
 <a href="https://www.emojione.com/emoji/1f300">
 <img height="128" width="128" alt="Portal" src="docs/portal.png" />
