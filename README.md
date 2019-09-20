@@ -15,13 +15,13 @@
 ## Installation
 
 ```bash
-yarn add @wtjs/tooltip
+npm install
 ```
 
 ## Usage
 
 ```js
-import Tooltip from '@wtjs/tooltip';
+import Tooltip from 'tooltip';
 
 <Tooltip render="Hi, I'm a tooltip">
     Hover me
