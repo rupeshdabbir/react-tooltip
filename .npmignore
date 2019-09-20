@@ -1,0 +1,6 @@
+.docz/
+.vscode/
+docs/
+node_modules/
+src/
+coverage/

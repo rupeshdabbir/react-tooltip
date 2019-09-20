@@ -1,0 +1,10 @@
+node_modules
+
+android/
+ios/
+lib/
+.docz/
+
+.vscode
+*.lock
+*.log*
